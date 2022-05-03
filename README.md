@@ -2,7 +2,7 @@
 
 A Simple wallet application written in Flutter and Dart for Android and iOs.
 
-<img src="img/app.png">
+<img src="app.png">
 
 
 
